@@ -30,6 +30,15 @@
 			font-family:sans-serif;
 			
 		}
+		#meatbox .itemname{
+		background-color:maroon;
+		color:white
+	}
+		#Sushibox .itemname{
+				background-color:#FFDEAD;
+				/*background-color: yellow;*/
+			}
+			
 		p{
 			clear: both;
 			padding: 10px;
@@ -55,10 +64,6 @@
 			#Sushibox{
 				float:left;
 				width: 100%;
-			}
-			#Sushibox .itemname{
-				background-color:#FFDEAD;
-				/*background-color: yellow;*/
 			}
 			
 		}
