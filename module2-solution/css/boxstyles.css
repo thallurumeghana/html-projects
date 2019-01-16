@@ -1,4 +1,3 @@
-<style>
 		*{
 			box-sizing:border-box;
 		}
@@ -57,9 +56,10 @@
 				float:left;
 				width: 100%;
 			}
+			#Sushibox .itemname{
+				background-color:#FFDEAD;
+				/*background-color: yellow;*/
+			}
 			
 		}
 
-
-
-	</style>
